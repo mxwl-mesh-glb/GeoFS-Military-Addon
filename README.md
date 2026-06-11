@@ -15,9 +15,9 @@ After pasting the code in tampermonkey, go to geofs.com and the addon should loa
 
 **L** = WEAPON SYSTEM ON / OFF
 
-**SHIFT** FIRE MISSILES
+**SHIFT** = FIRE MISSILES
 
-**ENTER** FIRE GUNS
+**ENTER** = FIRE GUNS
 
 
 **HOW TO USE THIS ADDON**
