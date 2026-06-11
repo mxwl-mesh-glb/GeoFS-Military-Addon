@@ -13,7 +13,7 @@ After pasting the code in tampermonkey, go to geofs.com and the addon should loa
 
 **CONTROLS**
 
-**L** = WEAPON SYSTEM ON
+**L** = WEAPON SYSTEM ON / OFF
 
 **SHIFT** FIRE MISSILES
 
