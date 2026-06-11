@@ -1,1 +1,44 @@
 # GeoFS-Military-Addon
+
+This is a tutorial on how to use this addon.
+
+**Current script version 0.0.1.5**
+
+**WARNING: THIS ADDON CURRENTLY ONLY WORKS WITH GEOFS BETA 4.0**
+
+Copy the code in main.js file
+
+After pasting the code in tampermonkey, go to geofs.com and the addon should load
+
+**CONTROLS**
+
+**L** = WEAPON SYSTEM ON
+
+**SHIFT** FIRE MISSILES
+
+**ENTER** FIRE GUNS
+
+
+**HOW TO USE THIS ADDON**
+
+As of 0.0.1.5, It's still relatively simple.
+
+Spawn in one if these planes (Su-35, F/A-18, rafale, F-16)
+
+Once you spawn in, you must be on the ground
+
+Turn off the engine or press **E**
+
+After coming to a stop, a button will appear
+
+Click the button and select your desired missiles
+
+Once that's done, it will be safe to take-off
+
+To turn the weapon system on, press **L**
+
+To lock a target, navigate the "aiming ring" on your target
+
+To fire a missile, press **SHIFT**
+
+*more features will be added in the future*
