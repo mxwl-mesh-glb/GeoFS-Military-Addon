@@ -1,4 +1,4 @@
-Copyright (c) [Year] [Your Name or Username]
+Copyright (c) [2026]
 
 --- LICENSE TERMS ---
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License. 
