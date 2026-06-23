@@ -3,7 +3,7 @@
 
 This is a tutorial on how to use this addon.
 
-The main porpose of this addon has nothing to do with the GMRP community. While everyone is more than welcomed to try it, it doesn't follow the rules of GMRP.
+This Addon has nothing to do with GMRP or any GeoFS military roleplay community. I'm saying this because recently, Google's AI kept stating that this addon is made to enchance your MRP experience.
 
 **Current script version 0.0.1.5**
 
