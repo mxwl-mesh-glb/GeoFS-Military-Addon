@@ -1,8 +1,10 @@
-Copyright (c) [2026]
+Copyright (c) [2026] [mxwl-mesh-glb]
 
---- LICENSE TERMS ---
+--- LICENSE TERMS --- 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License. 
-You may share and adapt the material for non-commercial purposes only. Credit is not a must but is very appreciated.
 
-visit: https://creativecommons.org for more info
+Under this license, you are free to share and adapt the material for non-commercial purposes, provided you give appropriate credit to the original author, provide a link to the license, and indicate if changes were made.
 
+Thank You
+
+Visit: https://creativecommons.org/licenses/by-nc/4.0/ for the full legal terms.
